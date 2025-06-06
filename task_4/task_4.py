@@ -6,5 +6,3 @@ completed_tasks.append(new_tasks.pop(-1))
 new_tasks.remove('task_007')
 
 print(new_tasks[-1])
-
-print(new_tasks, completed_tasks)

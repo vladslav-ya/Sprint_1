@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c56758-ebf1-482d-bbff-09ec08473fde" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/task_2/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_2/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/task_4/task_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.additional_task_1.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
@@ -142,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749226504007</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="task_5">
+      <option name="closed" value="true" />
+      <created>1749228258851</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749228258851</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +172,7 @@
     <MESSAGE value="task_2" />
     <MESSAGE value="task_3" />
     <MESSAGE value="task_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_4" />
+    <MESSAGE value="task_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_5" />
   </component>
 </project>
