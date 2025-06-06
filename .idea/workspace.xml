@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c56758-ebf1-482d-bbff-09ec08473fde" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,7 @@
   "keyToString": {
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop"
   }
@@ -116,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749202898775</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="task_2">
+      <option name="closed" value="true" />
+      <created>1749204616176</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749204616176</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +142,7 @@
     <MESSAGE value="check" />
     <MESSAGE value="first commit" />
     <MESSAGE value="task_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_1" />
+    <MESSAGE value="task_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_2" />
   </component>
 </project>
